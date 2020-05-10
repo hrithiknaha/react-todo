@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://hrithiknaha.github.io/react-todo/static/css/main.4b26b95d.chunk.css",
+    "main.js": "https://hrithiknaha.github.io/react-todo/static/js/main.747926bd.chunk.js",
+    "main.js.map": "https://hrithiknaha.github.io/react-todo/static/js/main.747926bd.chunk.js.map",
+    "runtime-main.js": "https://hrithiknaha.github.io/react-todo/static/js/runtime-main.599f9822.js",
+    "runtime-main.js.map": "https://hrithiknaha.github.io/react-todo/static/js/runtime-main.599f9822.js.map",
+    "static/js/2.b1c3182b.chunk.js": "https://hrithiknaha.github.io/react-todo/static/js/2.b1c3182b.chunk.js",
+    "static/js/2.b1c3182b.chunk.js.map": "https://hrithiknaha.github.io/react-todo/static/js/2.b1c3182b.chunk.js.map",
+    "index.html": "https://hrithiknaha.github.io/react-todo/index.html",
+    "precache-manifest.e78622aac6889a4a1afdf3dd8a1f8c7e.js": "https://hrithiknaha.github.io/react-todo/precache-manifest.e78622aac6889a4a1afdf3dd8a1f8c7e.js",
+    "service-worker.js": "https://hrithiknaha.github.io/react-todo/service-worker.js",
+    "static/css/main.4b26b95d.chunk.css.map": "https://hrithiknaha.github.io/react-todo/static/css/main.4b26b95d.chunk.css.map",
+    "static/js/2.b1c3182b.chunk.js.LICENSE.txt": "https://hrithiknaha.github.io/react-todo/static/js/2.b1c3182b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.599f9822.js",
+    "static/js/2.b1c3182b.chunk.js",
+    "static/css/main.4b26b95d.chunk.css",
+    "static/js/main.747926bd.chunk.js"
+  ]
+}
